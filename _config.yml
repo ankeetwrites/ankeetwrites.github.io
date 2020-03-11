@@ -4,13 +4,13 @@
 title: Ankeet Writes
 description: TODO
 baseurl: ""
-url: ""
+url: "https://ankeetwrites.github.io"
 
 
 #-------------------------------
 # About Section
 author-name:   Ankeet
-author-avatar: 01.jpg
+author-avatar: ankeet.webp
 
 
 #-------------------------------
@@ -33,7 +33,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 7
+paginate: 5
 paginate_path: "/page/:num"
 
 include:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 01.jpg
+image: about.webp
 permalink: /about/
 ---
 
